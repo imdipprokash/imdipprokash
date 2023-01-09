@@ -12,7 +12,7 @@
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdipprokash&layout=compact)](https://github.com/imdipprokash/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdipprokash&layout=compact)
 
 
 

@@ -12,10 +12,12 @@
 -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdipprokash&layout=compact)](https://github.com/imdipprokash/github-readme-stats)
+
+
 
 ![Dipprokash's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdipprokash&show_icons=true&theme=transparent)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdipprokash&layout=compact)](https://github.com/imdipprokash/github-readme-stats)
 

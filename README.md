@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**imdipprokash/imdipprokash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-Here are some ideas to get you started:
+![Dipprokash's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdipprokash&show_icons=true&theme=transparent)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

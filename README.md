@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imdipprokash&repo=github-readme-stats)](https://github.com/imdipprokash/github-readme-stats)
 
 
 ![Dipprokash's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdipprokash&show_icons=true&theme=transparent)

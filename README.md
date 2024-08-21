@@ -8,5 +8,5 @@
 - 💬 Ask me about React Native and React JS
 - 📫 How to reach me: text me on https://www.linkedin.com/in/dipprokash/
 - 😄 Pronouns: deepprokash
-- ⚡ Fun fact: I like to smile 😄😄😄
+- ⚡ Fun fact: I love to smile 😄😄😄
 -->

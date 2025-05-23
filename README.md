@@ -1,25 +1,64 @@
-<h1 align="center">Hi 👋, I'm Dipprokash Sardar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Dipprokash Sardar
 
-- 🔭 I’m currently working **Distronix**
+**Frontend Developer | React & React Native Specialist | India**
 
-- 🌱 I’m currently learning **Machine learning**
+---
 
-- 👯 I’m looking to collaborate on **React Native**
+## About Me
+I'm a passionate React and React Native Developer with over 2 years of experience building scalable, high-performance cross-platform mobile and web applications. I specialize in crafting user-friendly interfaces using React.js, React Native, TypeScript, and Redux, with expertise in Firebase, REST APIs, and GraphQL. Currently, I’m contributing to innovative mobile solutions at Distronix and exploring Machine Learning to enhance app functionality. I’m eager to collaborate on open-source projects and deliver impactful software solutions.
 
-- 🤝 I’m looking for help with **Node JS**
+---
 
-- 👨‍💻 All of my projects are available at [imdipprokash.github.io](imdipprokash.github.io)
+## Technical Skills
+- **Programming Languages**: JavaScript, TypeScript, Python, HTML5, CSS3
+- **Mobile Development**: React Native, Expo, React Navigation, Android Studio, Xcode
+- **Web Development**: React.js, Next.js, Redux Toolkit, React Hooks, Axios, Tailwind CSS
+- **Backend & APIs**: Node.js, Firebase, REST APIs, GraphQL, MongoDB, SQLite
+- **Testing & Tools**: Jest, Enzyme, Git, GitHub, Figma, Postman, CI/CD pipelines
+- **Cloud & DevOps**: Firebase Cloud Functions, AWS (EC2, S3), Docker (basic)
 
-- 💬 Ask me about **React Native, Expo, React JS, TypeScript**
+---
 
-- 📫 How to reach me **dipprokash2015@gmail.com**
+## Current Work
+- **Software Engineer at Distronix, Kolkata** (May 2022 – Present)
+  - Building cross-platform mobile apps using React Native, reducing time-to-market by 30 percent.
+  - Optimizing app performance with Redux Toolkit, decreasing crash rates by 20 percent.
+  - Developing hardware-integrated apps with Bluetooth Low Energy (BLE) and ESP32 modules.
+  - Creating GPS-based apps with RNMapbox and background location services.
 
-- 📄 Know about my experiences [imdipprokash.github.io](imdipprokash.github.io)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ ## Open Source Contributions
+  - [PixelTide Wallpaper App](https://github.com/imdipprokash/PixelTide-V2)
+  - [Music Recommendation System (Facial Expression)](https://github.com/imdipprokash/Music-recommendation-based-on-facial-expressions)
+  - [Wow QR Code Scanner](https://github.com/imdipprokash/Wow-Qr-Scanner)
+
+---
+
+## Currently Learning
+- Machine Learning for intelligent app features
+- Node.js for full-stack development
+- Advanced GraphQL and Apollo Client
+
+---
+
+## Looking to Collaborate On
+- React Native and React.js open-source projects
+- Mobile apps with hardware integration (e.g., IoT, BLE)
+- Agile teams building scalable web and mobile solutions
+
+---
+
+## Connect With Me
+- **Email**: [dipprokash2015@gmail.com](mailto:dipprokash2015@gmail.com)
+- **LinkedIn**: [linkedin.com/in/dipprokash](https://www.linkedin.com/in/dipprokash)
+- **GitHub**: [github.com/imdipprokash](https://github.com/imdipprokash)
+- **Portfolio**: [imdipprokash.github.io](https://imdipprokash.github.io)
+
+---
+
+## Ask Me About
+- React Native, React.js, Expo, TypeScript, Redux
+- Building performant mobile apps
+- Integrating APIs and Firebase in cross-platform apps

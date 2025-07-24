@@ -30,7 +30,7 @@ I'm a passionate React and React Native Developer with over 2 years of experienc
 
 
  ## Open Source Contributions
-  - [PixelTide Wallpaper App](https://github.com/imdipprokash/PixelTide-V2)
+  - [Planto - Identify instantly](https://play.google.com/store/apps/details?id=com.plantgenius&hl=en_IN)
   - [Music Recommendation System (Facial Expression)](https://github.com/imdipprokash/Music-recommendation-based-on-facial-expressions)
   - [Wow QR Code Scanner](https://github.com/imdipprokash/Wow-Qr-Scanner)
 

@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I'm a passionate React and React Native Developer with over 2 years of experience building scalable, high-performance cross-platform mobile and web applications. I specialize in crafting user-friendly interfaces using React.js, React Native, TypeScript, and Redux, with expertise in Firebase, REST APIs, and GraphQL. Currently, I’m contributing to innovative mobile solutions at Distronix and exploring Machine Learning to enhance app functionality. I’m eager to collaborate on open-source projects and deliver impactful software solutions.
+I'm a passionate React and React Native Developer with over 4+ years of experience building scalable, high-performance cross-platform mobile and web applications. I specialize in crafting user-friendly interfaces using React.js, React Native, TypeScript, and Redux, with expertise in Firebase, REST APIs, and GraphQL. Currently, I’m contributing to innovative mobile solutions at Distronix and exploring Machine Learning to enhance app functionality. I’m eager to collaborate on open-source projects and deliver impactful software solutions.
 
 ---
 
